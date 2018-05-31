@@ -10,3 +10,5 @@ my @array = (
 	"me",
 	"please", #a trailing comma is OKEE
 );
+
+print $array[1]; # will print these
